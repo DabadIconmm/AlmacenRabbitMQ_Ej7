@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "r1L4OdsIIKsRVkymXBbB0BfnT37mRj5k1bE0rtoxKQNUxk7YdE/MR0Ll7YIU24GVU45xHunW5qdLqT7COwMksg==",
+  "dgSpecHash": "a2Mi84Ah43aQcG0TEhnuwiPgNqbbq7lBEMtBuIWeooN5N1Enb4zsU5UTNM4iw+/GnMCJRBDf/kgLNiqERb15eQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\dabad\\Documents\\Work\\IconWork\\Formación\\C#\\Ejercicios\\Sesion7_\\Mod\\OT\\AlmacenRabbitMQ\\AlmacenRabbitMQ.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dabad\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\dabad\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\dabad\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }
